@@ -12,11 +12,8 @@
 </p>
 
 
-<h2 align="center">
-   Other Branches
-</h2>
 
-<p align="center">
+
 <a href="https://github.com/SUKHPAL443/SUKHIM/tree/Multi-Assistant"><img src="https://img.shields.io/badge/MULTI%20ASSISTANT%20MODE-blueviolet?style=for-the-badge" width="250""/</a>
 </p>
 </p>
